@@ -7,6 +7,9 @@ http://selfconference.org/sessions)
 
 ## Speakers
 
+### @sleepynate: Scala: The Pointy Bits
+Slides: https://speakerdeck.com/sleepynate/scala-the-pointy-bits
+
 ### Jason Petterson: Tales of Game Development with LibGDX - A Postmortem
 Slides: http://bit.ly/libgdx_postmortem_selfconf2015
 
