@@ -67,3 +67,8 @@ if me: http://if-me.org
 Written articles:
 * https://modelviewculture.com/pieces/the-pressures-of-success-in-undergraduate-computer-science-programs
 * https://modelviewculture.com/pieces/exclusion-and-exceptionality-in-the-pipeline
+
+### Katherine Wu: Ask vs. Guess Culture Communications
+Slides: http://kwugirl.blogspot.com/2015/05/ask-vs-guess-culture-communications.html
+
+Twitter: [@kwugirl](https://twitter.com/kwugirl)
