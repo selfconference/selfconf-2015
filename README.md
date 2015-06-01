@@ -32,6 +32,9 @@ Download Throw The Moon source code: http://broken-shotgun.github.io/throw-the-m
 
 Broken Shotgun site: http://brokenshotgun.com
 
+### Justin Searls: Sometimes a Controller is Just a Controller
+[Slides & Video](http://blog.testdouble.com/posts/2015-05-11-sometimes-a-controller-is-just-a-controller.html)
+
 ### Chris Trevarthen & Jake Payton: Climbing the Testing Pyramid in iOS
 Slides: https://speakerdeck.com/ctrevarthen/climbing-the-testing-pyramid-in-ios
 
