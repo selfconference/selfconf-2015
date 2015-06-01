@@ -43,3 +43,6 @@ Slides: https://speakerdeck.com/ctrevarthen/megateam-vs-code-nado-lessons-learne
 ### Ashley Hathaway: Lessons Learned Transitioning Roles 
 Slides: https://speakerdeck.com/ashhath/lessons-learned-transitioning-roles
 
+### Madalyn Parker: Coming Clean About Mental Health at Work
+Slides: https://goo.gl/TYpUxw
+
