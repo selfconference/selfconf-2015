@@ -51,3 +51,10 @@ Slides: https://goo.gl/TYpUxw
 
 ### Bill Laboon: How Would Plato Program? The Ethics of Software Engineering
 Slides: https://prezi.com/9hlnoldtijcf/how-would-plato-program/
+
+### Kerri Miller: 5 Things I Wish Someone Told Me Before I Started Programming
+Slides: https://speakerdeck.com/kerrizor/5-things-i-wish-someone-told-me-before-i-started-programming
+
+Blog: http://kerrizor.com
+
+Twitter: http://twitter.com/kerrizor
