@@ -47,8 +47,6 @@ Slides: https://speakerdeck.com/ashhath/lessons-learned-transitioning-roles
 Slides: https://goo.gl/TYpUxw
 
 ### Julia Nguyen: Opening up Conversations about Mental Health in Computer Science Education
-Previously recorded talk: https://vimeo.com/126403483
-
 Slides: https://docs.google.com/presentation/d/1bPyAhukV5-DT39mcks5M1gzrOuUgiHRFEuXzUkeu8dw/edit?usp=sharing
 
 if me: http://if-me.org
