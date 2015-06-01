@@ -43,3 +43,9 @@ Slides: https://speakerdeck.com/ctrevarthen/megateam-vs-code-nado-lessons-learne
 ### Ashley Hathaway: Lessons Learned Transitioning Roles 
 Slides: https://speakerdeck.com/ashhath/lessons-learned-transitioning-roles
 
+### Kerri Miller: 5 Things I Wish Someone Told Me Before I Started Programming
+Slides: https://speakerdeck.com/kerrizor/5-things-i-wish-someone-told-me-before-i-started-programming
+
+Blog: http://kerrizor.com
+
+Twitter: http://twitter.com/kerrizor
