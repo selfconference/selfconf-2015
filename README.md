@@ -7,6 +7,12 @@ http://selfconference.org/sessions)
 
 ## Speakers
 
+### DJ Daugherty: BYOD: Build your own drone, multirotor copter that is. 
+Slides: https://speakerdeck.com/ddaugher/byod-build-your-own-drone-dot-dot-dot-agile-and-beyond-2015
+
+Personal Blog: http://ddaugher.github.io
+Pillar Technology: http://www.pillartechnology.com
+
 ### Nathan Dotz: Scala: The Pointy Bits
 Slides: https://speakerdeck.com/sleepynate/scala-the-pointy-bits
 
