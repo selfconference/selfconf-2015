@@ -46,3 +46,10 @@ Slides: https://speakerdeck.com/ashhath/lessons-learned-transitioning-roles
 ### Madalyn Parker: Coming Clean About Mental Health at Work
 Slides: https://goo.gl/TYpUxw
 
+### Julia Nguyen: Opening up Conversations about Mental Health in Computer Science Education
+Previously recorded talk: https://vimeo.com/126403483
+Slides: https://docs.google.com/presentation/d/1bPyAhukV5-DT39mcks5M1gzrOuUgiHRFEuXzUkeu8dw/edit?usp=sharing
+Written articles:
+https://modelviewculture.com/pieces/the-pressures-of-success-in-undergraduate-computer-science-programs
+https://modelviewculture.com/pieces/exclusion-and-exceptionality-in-the-pipeline
+if me: http://if-me.org
