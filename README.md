@@ -40,3 +40,6 @@ SunnyDaze Objective-C Source: https://github.com/ctrevarthen/selfconf-wundergrou
 ### Anne Cahalan, Chris Trevarthen, Kyle Ofori, Will Hinchman: Megateam vs Code-nado: Lessons Learned While Working on a Large Team
 Slides: https://speakerdeck.com/ctrevarthen/megateam-vs-code-nado-lessons-learned-while-working-on-a-large-team
 
+### Ashley Hathaway: Lessons Learned Transitioning Roles 
+Slides: https://speakerdeck.com/ashhath/lessons-learned-transitioning-roles
+
