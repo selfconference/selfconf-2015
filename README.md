@@ -49,3 +49,5 @@ Slides: https://speakerdeck.com/ashhath/lessons-learned-transitioning-roles
 ### Madalyn Parker: Coming Clean About Mental Health at Work
 Slides: https://goo.gl/TYpUxw
 
+### Bill Laboon: How Would Plato Program? The Ethics of Software Engineering
+Slides: https://prezi.com/9hlnoldtijcf/how-would-plato-program/
