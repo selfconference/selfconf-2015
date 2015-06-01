@@ -67,3 +67,9 @@ if me: http://if-me.org
 Written articles:
 * https://modelviewculture.com/pieces/the-pressures-of-success-in-undergraduate-computer-science-programs
 * https://modelviewculture.com/pieces/exclusion-and-exceptionality-in-the-pipeline
+
+### Robert Aboukhalil: Build real-time web applications using WebSockets and Node.js
+
+Slides: http://robertaboukhalil.com/data/talks/20150530_SelfConf_2015_Slides.pdf
+
+Twitter: [@RobAboukhalil](https://twitter.com/RobAboukhalil)
