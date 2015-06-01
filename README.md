@@ -26,3 +26,7 @@ Download Throw The Moon on Google Play: http://bit.ly/throwthemoon
 Download Throw The Moon source code: http://broken-shotgun.github.io/throw-the-moon/
 
 Broken Shotgun site: http://brokenshotgun.com
+
+### Justin Searls: Sometimes a Controller is Just a Controller
+
+[Slides & Video](http://blog.testdouble.com/posts/2015-05-11-sometimes-a-controller-is-just-a-controller.html)
