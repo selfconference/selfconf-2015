@@ -26,3 +26,12 @@ Download Throw The Moon on Google Play: http://bit.ly/throwthemoon
 Download Throw The Moon source code: http://broken-shotgun.github.io/throw-the-moon/
 
 Broken Shotgun site: http://brokenshotgun.com
+
+### Chris Trevarthen & Jake Payton: Climbing the Testing Pyramid in iOS
+Slides: https://speakerdeck.com/ctrevarthen/climbing-the-testing-pyramid-in-ios
+
+SunnyDaze Objective-C Source: https://github.com/ctrevarthen/selfconf-wunderground-objc
+
+### Anne Cahalan, Chris Trevarthen, Kyle Ofori, Will Hinchman: Megateam vs Code-nado: Lessons Learned While Working on a Large Team
+Slides: https://speakerdeck.com/ctrevarthen/megateam-vs-code-nado-lessons-learned-while-working-on-a-large-team
+
