@@ -54,5 +54,5 @@ Slides: https://docs.google.com/presentation/d/1bPyAhukV5-DT39mcks5M1gzrOuUgiHRF
 if me: http://if-me.org
 
 Written articles:
-*https://modelviewculture.com/pieces/the-pressures-of-success-in-undergraduate-computer-science-programs
-*https://modelviewculture.com/pieces/exclusion-and-exceptionality-in-the-pipeline
+* https://modelviewculture.com/pieces/the-pressures-of-success-in-undergraduate-computer-science-programs
+* https://modelviewculture.com/pieces/exclusion-and-exceptionality-in-the-pipeline
