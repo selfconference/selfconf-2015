@@ -18,6 +18,11 @@ Slides: https://speakerdeck.com/sleepynate/scala-the-pointy-bits
 
 Detroit Labs: http://www.detroitlabs.com
 
+### Jer Lance: Strong Teams as Healthy Communities
+Slides: http://jerlance.com/index.php?p=strong_teams_talk_self2015
+
+Blog Post: http://jerlance.com/files/teams_as_communities_selfconf_2015.pdf 
+
 ### Jason Petterson: Tales of Game Development with LibGDX - A Postmortem
 Slides: http://bit.ly/libgdx_postmortem_selfconf2015
 
@@ -28,5 +33,16 @@ Download Throw The Moon source code: http://broken-shotgun.github.io/throw-the-m
 Broken Shotgun site: http://brokenshotgun.com
 
 ### Justin Searls: Sometimes a Controller is Just a Controller
-
 [Slides & Video](http://blog.testdouble.com/posts/2015-05-11-sometimes-a-controller-is-just-a-controller.html)
+
+### Chris Trevarthen & Jake Payton: Climbing the Testing Pyramid in iOS
+Slides: https://speakerdeck.com/ctrevarthen/climbing-the-testing-pyramid-in-ios
+
+SunnyDaze Objective-C Source: https://github.com/ctrevarthen/selfconf-wunderground-objc
+
+### Anne Cahalan, Chris Trevarthen, Kyle Ofori, Will Hinchman: Megateam vs Code-nado: Lessons Learned While Working on a Large Team
+Slides: https://speakerdeck.com/ctrevarthen/megateam-vs-code-nado-lessons-learned-while-working-on-a-large-team
+
+### Ashley Hathaway: Lessons Learned Transitioning Roles 
+Slides: https://speakerdeck.com/ashhath/lessons-learned-transitioning-roles
+
