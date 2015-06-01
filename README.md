@@ -43,3 +43,5 @@ Slides: https://speakerdeck.com/ctrevarthen/megateam-vs-code-nado-lessons-learne
 ### Ashley Hathaway: Lessons Learned Transitioning Roles 
 Slides: https://speakerdeck.com/ashhath/lessons-learned-transitioning-roles
 
+### Bill Laboon: How Would Plato Program? The Ethics of Software Engineering
+Slides: https://prezi.com/9hlnoldtijcf/how-would-plato-program/
