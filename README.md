@@ -40,3 +40,9 @@ SunnyDaze Objective-C Source: https://github.com/ctrevarthen/selfconf-wundergrou
 ### Anne Cahalan, Chris Trevarthen, Kyle Ofori, Will Hinchman: Megateam vs Code-nado: Lessons Learned While Working on a Large Team
 Slides: https://speakerdeck.com/ctrevarthen/megateam-vs-code-nado-lessons-learned-while-working-on-a-large-team
 
+### Kerri Miller: 5 Things I Wish Someone Told Me Before I Started Programming
+Slides: https://speakerdeck.com/kerrizor/5-things-i-wish-someone-told-me-before-i-started-programming
+
+Blog: http://kerrizor.com
+
+Twitter: http://twitter.com/kerrizor
