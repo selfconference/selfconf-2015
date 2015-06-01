@@ -58,3 +58,12 @@ Slides: https://speakerdeck.com/kerrizor/5-things-i-wish-someone-told-me-before-
 Blog: http://kerrizor.com
 
 Twitter: http://twitter.com/kerrizor
+
+### Julia Nguyen: Opening up Conversations about Mental Health in Computer Science Education
+Slides: https://docs.google.com/presentation/d/1bPyAhukV5-DT39mcks5M1gzrOuUgiHRFEuXzUkeu8dw/edit?usp=sharing
+
+if me: http://if-me.org
+
+Written articles:
+* https://modelviewculture.com/pieces/the-pressures-of-success-in-undergraduate-computer-science-programs
+* https://modelviewculture.com/pieces/exclusion-and-exceptionality-in-the-pipeline
