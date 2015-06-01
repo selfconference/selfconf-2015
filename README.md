@@ -18,6 +18,11 @@ Slides: https://speakerdeck.com/sleepynate/scala-the-pointy-bits
 
 Detroit Labs: http://www.detroitlabs.com
 
+### Jer Lance: Strong Teams as Healthy Communities
+Slides: http://jerlance.com/index.php?p=strong_teams_talk_self2015
+
+Blog Post: http://jerlance.com/files/teams_as_communities_selfconf_2015.pdf 
+
 ### Jason Petterson: Tales of Game Development with LibGDX - A Postmortem
 Slides: http://bit.ly/libgdx_postmortem_selfconf2015
 
