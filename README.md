@@ -72,3 +72,9 @@ Written articles:
 Slides: http://kwugirl.blogspot.com/2015/05/ask-vs-guess-culture-communications.html
 
 Twitter: [@kwugirl](https://twitter.com/kwugirl)
+
+### Robert Aboukhalil: Build real-time web applications using WebSockets and Node.js
+
+Slides: http://robertaboukhalil.com/data/talks/20150530_SelfConf_2015_Slides.pdf
+
+Twitter: [@RobAboukhalil](https://twitter.com/RobAboukhalil)
