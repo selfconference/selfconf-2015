@@ -78,3 +78,9 @@ Twitter: [@kwugirl](https://twitter.com/kwugirl)
 Slides: http://robertaboukhalil.com/data/talks/20150530_SelfConf_2015_Slides.pdf
 
 Twitter: [@RobAboukhalil](https://twitter.com/RobAboukhalil)
+
+### Amanda Stockwell: UX is not just designers
+
+Slides: http://www.slideshare.net/AmandaStockwell/self-conf-deck
+
+Twitter: [@MandaLaceyS](https://twitter.com/MandaLaceyS)
