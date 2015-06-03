@@ -84,3 +84,15 @@ Twitter: [@RobAboukhalil](https://twitter.com/RobAboukhalil)
 Slides: http://www.slideshare.net/AmandaStockwell/self-conf-deck
 
 Twitter: [@MandaLaceyS](https://twitter.com/MandaLaceyS)
+
+### Amitai Schlair: Bring Your Whole Self To Work (In 15 Years Or Less)!
+
+Questions I asked friends and coworkers about my self:
+http://www.schmonz.com/2015/03/05/riches-of-embarrassment/
+
+About my work:
+http://www.schmonz.com/coach/
+
+Blog: http://www.schmonz.com
+
+Twitter: https://twitter.com/schmonz
