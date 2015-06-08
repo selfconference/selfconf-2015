@@ -104,3 +104,9 @@ Using the free tiers of many online services together for fun & learning while t
 Slides: http://lmorchard.github.io/cloud-hobby-computer-slides/
 
 Twitter: [@lmorchard](https://twitter.com/lmorchard)
+
+### Todd Kaufman: Finding Joy at work
+
+Youtube: https://youtu.be/JOoULTXN75o
+
+Blog: http://blog.testdouble.com
