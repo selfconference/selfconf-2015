@@ -96,3 +96,11 @@ http://www.schmonz.com/coach/
 Blog: http://www.schmonz.com
 
 Twitter: https://twitter.com/schmonz
+
+### Les Orchard: The Cloud is Your Free Hobby Computer
+
+Using the free tiers of many online services together for fun & learning while taking note of the fine print.
+
+Slides: http://lmorchard.github.io/cloud-hobby-computer-slides/
+
+Twitter: [@lmorchard](https://twitter.com/lmorchard)
