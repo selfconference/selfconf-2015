@@ -104,3 +104,11 @@ Using the free tiers of many online services together for fun & learning while t
 Slides: http://lmorchard.github.io/cloud-hobby-computer-slides/
 
 Twitter: [@lmorchard](https://twitter.com/lmorchard)
+
+### Julie Cameron: Decoupling the Front-end with Modular CSS
+
+Slides: http://bit.ly/decoupling-css
+
+Video from SEM.js: https://youtu.be/HoQ-QEusyS0 (This is a longer version of the talk with live coding examples.)
+
+Twitter: [@jewlofthelotus](https://twitter.com/jewlofthelotus)
