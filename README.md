@@ -112,3 +112,9 @@ Slides: http://bit.ly/decoupling-css
 Video from SEM.js: https://youtu.be/HoQ-QEusyS0 (This is a longer version of the talk with live coding examples.)
 
 Twitter: [@jewlofthelotus](https://twitter.com/jewlofthelotus)
+
+### Daniel Davis: TDD vs. ATDD - What, Why, Which, When & Where
+
+Slides: http://www.slideshare.net/daniel_davis/tdd-vs-atdd
+
+Twitter: [@daniel_davis](https://twitter.com/daniel_davis)
