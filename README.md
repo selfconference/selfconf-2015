@@ -118,3 +118,9 @@ Twitter: [@jewlofthelotus](https://twitter.com/jewlofthelotus)
 Slides: http://www.slideshare.net/daniel_davis/tdd-vs-atdd
 
 Twitter: [@daniel_davis](https://twitter.com/daniel_davis)
+
+### Todd Kaufman: Finding Joy at work
+
+Youtube: https://youtu.be/JOoULTXN75o
+
+Blog: http://blog.testdouble.com
