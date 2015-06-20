@@ -124,3 +124,9 @@ Twitter: [@daniel_davis](https://twitter.com/daniel_davis)
 Youtube: https://youtu.be/JOoULTXN75o
 
 Blog: http://blog.testdouble.com
+
+### Jon Kuperman: The Inclusive Web: Getting started with Accessibility
+
+Slides: https://speakerdeck.com/jkup/selfconf-accessibility-talk
+
+Twitter: [@jkup](https://twitter.com/jkup)
